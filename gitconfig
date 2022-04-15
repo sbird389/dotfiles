@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = s.bird389@gmail.com
+	name = Sam Bird
